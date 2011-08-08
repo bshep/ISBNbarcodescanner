@@ -1,0 +1,8 @@
+Dependencies:
+1. opencv [http://opencv.willowgarage.com/wiki/]
+2. zbar [http://zbar.sourceforge.net]
+
+Install and Run:
+1. cp config.py.sample config.py
+2. vi config.py -> put your AWS credentials
+3. python main.py
